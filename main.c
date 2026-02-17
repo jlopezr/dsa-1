@@ -2,7 +2,7 @@
 
 void main() {
 	if(a>0) {
-
+		printf("Error muy chungo");
 	}
 	return 0;
 }
